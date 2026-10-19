@@ -5,6 +5,7 @@
 3. Brainiac
 4. El papa de tu papa
 5. El pepe
+6. Bizarro
 
 # Notas
 
