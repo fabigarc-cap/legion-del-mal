@@ -6,3 +6,4 @@ El objetivo es congelar la ciudad de Metrópolis.
 
 1. **Preparación del equipo**: asegúrate de contar con el equipo necesario.
 2. **Identificación de áreas críticas**: determina las zonas de la ciudad que necesitan ser congeladas primero.
+3. **Activación del dispositivo de congelación**: coloca dispositivos de congelación en las áreas identificadas.
