@@ -16,7 +16,11 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 📄 nuevas-misiones.yaml    → Estado global de todas las misiones
+=======
+📄 README.md        → Documentación principal del repositorio
+>>>>>>> Stashed changes
 =======
 📄 README.md        → Documentación principal del repositorio
 >>>>>>> Stashed changes
