@@ -22,9 +22,9 @@ on:
         type: choice
         options:
           - eyes
-          - cat
-          - bees
           - dragon
+          - king
+          - ghostbusters
 
       mensaje:
         description: "Mensaje para el consejo"
