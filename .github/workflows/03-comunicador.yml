@@ -16,6 +16,16 @@ on:
           - Mystique
           - Brainiac
       
+      cow_character:
+        description: "Elige uno de los siguiente personajes"
+        required: true
+        type: choice
+        options:
+          - eyes
+          - cat
+          - bees
+          - dragon
+
       mensaje:
         description: "Mensaje para el consejo"
         required: true
@@ -49,7 +59,7 @@ jobs:
           echo ""
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M UTC")"
           echo "----- Mensaje -----"
-          cowsay -f eyes "${{inputs.mensaje}}"
+          cowsay -f "${{inputs.cow_character}}" "${{inputs.mensaje}}"
           echo ""
           echo "--- ${{inputs.villano}}"
           echo "..."
